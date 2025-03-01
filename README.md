@@ -25,14 +25,10 @@ src="https://img.shields.io/github/followers/gustavo-nog?logo=github&style=for-t
 
 <p align="center"><img src="https://profile-counter.glitch.me/gustavo-nog/count.svg" alt="gustavo-nog :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :ManTechnologist:</h4>
+<h4 align="center">Top langs 👨‍💻:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-nog&langs_count=10&theme=tokyonight&layout=compact" alt="gustavo-nog :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gustavo-nog&show_icons=true&theme=synthwave" alt="gustavo-nog :: Profile Stats" /></p>
-
-<h4 align="center">Cinefilo mode :film_projector:</h4>
-
-<p align="center"><img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyY/giphy.gif" alt="Cinefilo GIF" height="300" width="500"></p>
