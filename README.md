@@ -25,9 +25,10 @@ src="https://img.shields.io/github/followers/gustavo-nog?logo=github&style=for-t
 
 <p align="center"><img src="https://profile-counter.glitch.me/gustavo-nog/count.svg" alt="gustavo-nog :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs 👨‍💻:</h4>
+<h4 align="center">Top langs 👨‍💻</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-nog&langs_count=10&theme=tokyonight&layout=compact" alt="gustavo-nog :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Nog&hide=html,css,javascript&theme=tokyonight&layout=compact" alt="Top Langs" />
+</p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
