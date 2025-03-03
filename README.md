@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/gustavo-nog?logo=github&style=for-t
 
 <h4 align="center">Top langs 👨‍💻</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Nog&theme=tokyonight&layout=compact" alt="Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Nog&theme=highcontrast&layout=compact" alt="Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
