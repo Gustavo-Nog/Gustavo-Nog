@@ -32,5 +32,5 @@ src="https://img.shields.io/github/followers/gustavo-nog?logo=github&style=for-t
 <h4 align="center">Estatísticas do Perfil :musical_keyboard:</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-nog&show_icons=true&theme=dark" alt="Estatísticas do Perfil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-nog&show_icons=true&theme=highcontrast" alt="Estatísticas do Perfil" />
 </p>
